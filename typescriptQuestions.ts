@@ -2,7 +2,7 @@
 let personName: string = "Malik";
 console.log("Hello " + personName + ", would you like to learn some Python today?");
 
-let name2: string = "DaveMalik";
+let name2: string = "dave malik";
 console.log("Lowercase Name:", name2.toLowerCase());
 console.log("Uppercase Name:", name2.toUpperCase());
 console.log("Titlecase Name:", name2.replace(/\b\w/g, (char) => char.toUpperCase()));
